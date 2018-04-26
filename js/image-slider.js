@@ -1,7 +1,7 @@
 /* Authored by Boaz James Otieno */
 /* full screen image slider */
 
-var arr=['images/haley.jpg','images/jon.jpg','images/PB.jpg','images/inside.jpg']; //an array of image sources
+var arr=['images/field.jpg','images/lightening.jpg','images/mountain.jpg','images/nature.jpg','images/tree.jpg']; //an array of image sources
 var pos=0; //initializes image position in the array
 $(document).ready(function () {
     var interval=5000; //interval for slide
