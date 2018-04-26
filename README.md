@@ -1,7 +1,7 @@
 jquery image slider
 ===================
 
-##This is a fully responsive image slider
+### This is a fully responsive image slider
 
 You can edit the following lines:
 
